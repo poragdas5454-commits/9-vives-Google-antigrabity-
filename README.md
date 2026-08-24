@@ -6,8 +6,6 @@ Premium T-Shirts & Modern Fashion — e-commerce web app.
 
 **[https://9vives.netlify.app](https://9vives.netlify.app)**
 
-> Netlify Dashboard: [https://app.netlify.com/projects/9vives/overview](https://app.netlify.com/projects/9vives/overview)
-
 ## ✨ Features
 
 - 🛍️ Product listing & detail pages (Shop, Quick View)
